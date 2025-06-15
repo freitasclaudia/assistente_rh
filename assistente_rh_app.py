@@ -33,7 +33,7 @@ sheet = gc.open("chat_logs_rh").sheet1
 drive_service = build("drive", "v3", credentials=creds)
 
 # Alterado para a nova pasta do Drive que você passou
-FOLDER_ID = "1cq6KIiN1p-v1ZMqBJbUNk_-t1v3rJ3dDeKXlWRndzIc"
+FOLDER_ID = "1hbxp8ENMtnQNrJ35Dp-Hy_-nLRZEI3a5"
 
 # ----------------------------------------------------------------------
 # FUNÇÕES UTILITÁRIAS
